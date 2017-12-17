@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3.1 (64-bit)
+# SW Build 2035080 on Fri Oct 20 14:20:01 MDT 2017
+# IP Build 2034413 on Fri Oct 20 15:56:25 MDT 2017
+# Start of session at: Sun Dec 17 17:37:03 2017
+# Process ID: 11888
+# Current directory: D:/Repositories/FPGA/Xilinx/Vivado/SevenSegmentsTest/SevenSegmentsTest.runs/Main_axi_gpio_0_0_synth_1
+# Command line: vivado.exe -log Main_axi_gpio_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Main_axi_gpio_0_0.tcl
+# Log file: D:/Repositories/FPGA/Xilinx/Vivado/SevenSegmentsTest/SevenSegmentsTest.runs/Main_axi_gpio_0_0_synth_1/Main_axi_gpio_0_0.vds
+# Journal file: D:/Repositories/FPGA/Xilinx/Vivado/SevenSegmentsTest/SevenSegmentsTest.runs/Main_axi_gpio_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Main_axi_gpio_0_0.tcl -notrace
